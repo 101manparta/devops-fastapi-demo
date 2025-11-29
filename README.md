@@ -8,12 +8,8 @@ Features
 - Dokumentasi otomatis /docs
 
 Project Structure
-app/
- ├── main.py
- ├── __init__.py
-Dockerfile
-requirements.txt
-README.md
+<img width="217" height="238" alt="image" src="https://github.com/user-attachments/assets/e15f1f1b-9583-4bec-9043-1dbf7af5765c" />
+
 
 Run Locally
 uvicorn app.main:app --reload

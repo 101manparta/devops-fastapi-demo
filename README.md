@@ -31,9 +31,7 @@ manparta – DevOps Engineer
 
 Dokumentasi 
 
-<img width="1920" height="1080" alt="Screenshot (251)" src="https://github.com/user-attachments/assets/bd1681bb-6871-40e2-bd5c-87706fa8978e" />
+<img width="192" height="108" alt="Screenshot (257)" src="https://github.com/user-attachments/assets/0511986b-51e4-4927-b999-16dd4e6546a4" />
 
-<img width="1920" height="1080" alt="Screenshot (257)" src="https://github.com/user-attachments/assets/0511986b-51e4-4927-b999-16dd4e6546a4" />
-
-<img width="1920" height="1080" alt="Screenshot (256)" src="https://github.com/user-attachments/assets/22e1e538-bced-4a1e-92f5-b64542f29d54" />
+<img width="192" height="108" alt="Screenshot (256)" src="https://github.com/user-attachments/assets/22e1e538-bced-4a1e-92f5-b64542f29d54" />
 
